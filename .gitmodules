@@ -7,3 +7,6 @@
 [submodule "gpio"]
 	path = gpio
 	url = git@github.com:uncellon/utoolbox-gpio
+[submodule "serialport"]
+	path = serialport
+	url = git@github.com:uncellon/utoolbox-serialport
