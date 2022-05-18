@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:uncellon/utoolbox-core.git
+[submodule "timers"]
+	path = timers
+	url = git@github.com:uncellon/utoolbox-timers
+[submodule "gpio"]
+	path = gpio
+	url = git@github.com:uncellon/utoolbox-gpio
