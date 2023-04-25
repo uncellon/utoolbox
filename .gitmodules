@@ -10,3 +10,6 @@
 [submodule "serialport"]
 	path = serialport
 	url = git@github.com:uncellon/utoolbox-serialport
+[submodule "ipc"]
+	path = ipc
+	url = git@github.com:uncellon/utoolbox-ipc

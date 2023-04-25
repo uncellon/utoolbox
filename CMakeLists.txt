@@ -16,3 +16,6 @@ list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/serialport)
 
 add_subdirectory(gpio)
 list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/gpio)
+
+add_subdirectory(ipc)
+list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/ipc)
