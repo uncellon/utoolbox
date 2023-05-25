@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = git@github.com:uncellon/utoolbox-core.git
+	url = git@github.com:uncellon/utoolbox-core
 [submodule "timers"]
 	path = timers
 	url = git@github.com:uncellon/utoolbox-timers
@@ -10,6 +10,6 @@
 [submodule "serialport"]
 	path = serialport
 	url = git@github.com:uncellon/utoolbox-serialport
-[submodule "ipc"]
-	path = ipc
-	url = git@github.com:uncellon/utoolbox-ipc
+[submodule "logger"]
+	path = logger
+	url = git@github.com:uncellon/utoolbox-logger
