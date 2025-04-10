@@ -1,15 +1,15 @@
 [submodule "core"]
 	path = core
-	url = git@github.com:uncellon/utoolbox-core
+	url = https://github.com/uncellon/utoolbox-core
 [submodule "timers"]
 	path = timers
-	url = git@github.com:uncellon/utoolbox-timers
+	url = https://github.com/uncellon/utoolbox-timers
 [submodule "gpio"]
 	path = gpio
-	url = git@github.com:uncellon/utoolbox-gpio
+	url = https://github.com/uncellon/utoolbox-gpio
 [submodule "serialport"]
 	path = serialport
-	url = git@github.com:uncellon/utoolbox-serialport
+	url = https://github.com/uncellon/utoolbox-serialport
 [submodule "logger"]
 	path = logger
-	url = git@github.com:uncellon/utoolbox-logger
+	url = https://github.com/uncellon/utoolbox-logger
