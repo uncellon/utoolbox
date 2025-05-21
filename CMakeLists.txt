@@ -9,13 +9,13 @@ add_subdirectory(core)
 list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/core)
 
 add_subdirectory(timers)
-list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/timers)
+# list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/timers)
 
 add_subdirectory(serialport)
-list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/serialport)
+# list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/serialport)
 
 add_subdirectory(gpio)
-list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/gpio)
+# list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/gpio)
 
 add_subdirectory(logger)
-list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/logger)
+# list(APPEND CMAKE_PREFIX_PATH ${CMAKE_BINARY_DIR}/logger)
